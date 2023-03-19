@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/mnt/c/Users/tc/Desktop/Starter/contracts/Engine.sol": {
-      "lastModificationDate": 1677452239125,
+    "/Users/aizhana/Hardhat-Gambling/contracts/Engine.sol": {
+      "lastModificationDate": 1678642324889,
       "contentHash": "460b35e5d9094d77946f1852e4bc30fa",
       "sourceName": "contracts/Engine.sol",
       "solcConfig": {
@@ -36,8 +36,8 @@
         "Engine"
       ]
     },
-    "/mnt/c/Users/tc/Desktop/Starter/contracts/Game.sol": {
-      "lastModificationDate": 1677452239125,
+    "/Users/aizhana/Hardhat-Gambling/contracts/Game.sol": {
+      "lastModificationDate": 1678642324890,
       "contentHash": "9e1eb2fe0dfecb6db05b70ba409c9d63",
       "sourceName": "contracts/Game.sol",
       "solcConfig": {
