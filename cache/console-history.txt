@@ -1,0 +1,25 @@
+console.log(receipt); // Output transaction receipt
+const receipt = await provider.getTransactionReceipt(txHash);
+const txHash = "0x75f8a6f7e78b1d35c975bedeb014b8529d443d777a8a08ae346f3288298870dc";
+// Get transaction receipt
+const provider = new ethers.providers.JsonRpcProvider("https://alfajores-forno.celo-testnet.org");
+// Connect to Alfajores Testnet
+const { ethers } = require("ethers");
+await ethers.provider.getTransactionReceipt('0x75f8a6f7e78b1d35c975bedeb014b8529d443d777a8a08ae346f3288298870dc')0xe6317492c8a532992019394fe3c827c564169f
+await ethers.provider.getTransactionReceipt('0x75f8a6f7e78b1d35c975bedeb014b8529d443d777a8a08ae346f3288298870dc')0xe6317492c8a532992019394fe3c827c564169fe5
+await ethers.provider.getTransactionReceipt(0x75f8a6f7e78b1d35c975bedeb014b8529d443d777a8a08ae346f3288298870dc)
+await ethers.provider.getTransactionReceipt('0x75f8a6f7e78b1d35c975bedeb014b8529d443d777a8a08ae346f3288298870dc')
+gasUsed = receipt.gasUsed
+receipt = await ethers.provider.getTransactionReceipt('0x75f8a6f7e78b1d35c975bedeb014b8529d443d777a8a08ae346f3288298870dc')
+await ethers.provider.getTransactionReceipt('0x75f8a6f7e78b1d35c975bedeb014b8529d443d777a8a08ae346f3288298870dc')
+console.log(`Gas cost: ${gasCost.toString()} wei`)await ethers.provider.getTransactionReceipt('0x75f8a6f7e78b1d35c975bedeb014b8529d443d777a8a08ae346f3288298870dc')
+const gasCost = gasUsed.mul(gasPrice)
+const gasPrice = await ethers.provider.getGasPrice()
+const gasUsed = receipt.gasUsed
+console.log(`Gas cost: ${gasCost.toString()} wei`)const receipt = await ethers.provider.getTransactionReceipt('0x75f8a6f7e78b1d35c975bedeb014b8529d443d777a8a08ae346f3288298870dc')
+console.log(`Gas cost: ${gasCost.toString()} wei`)
+const gasCost = gasUsed.mul(gasPrice)
+const gasPrice = await ethers.provider.getGasPrice()
+const gasUsed = receipt.gasUsed
+const receipt = await ethers.provider.getTransactionReceipt('0xe6317492C8a532992019394FE3C827C564169Fe5')
+await ethers.provider.getTransactionReceipt(<transactionHash>)
